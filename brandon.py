@@ -1,0 +1,1 @@
+print("jmoney a hustla")
