@@ -1,0 +1,2 @@
+print("Headaeg")
+print("Tere")

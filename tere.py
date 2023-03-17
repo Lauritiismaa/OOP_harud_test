@@ -1,0 +1,2 @@
+print("Ter")
+print("Headaega")
